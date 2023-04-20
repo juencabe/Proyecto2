@@ -2,6 +2,8 @@
 
 https://es.statista.com/estadisticas/541451/penetracion-mundial-de-internet-por-region-del-mundo/#:~:text=En%20enero%20de%202023%2C%20los,que%20situaba%20en%20el%2064%25.
 
+https://es.statista.com/temas/7678/el-uso-de-internet-en-argentina/#topicOverview
+
 ### OJETIVO DEL PROYECTO
 
 -Realizar un análisis que permita conocer el comportamiento del servicio de Internet en el sector de las Telecomunicaciones a nivel nacional, para orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
