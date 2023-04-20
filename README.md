@@ -12,3 +12,4 @@
 ### ANALISIS Y CONCLUSIONES
 
 - Despliegue fibra optica
+- -Tecnólogia 5G
