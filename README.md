@@ -2,6 +2,8 @@
 
 https://es.statista.com/estadisticas/541451/penetracion-mundial-de-internet-por-region-del-mundo/#:~:text=En%20enero%20de%202023%2C%20los,que%20situaba%20en%20el%2064%25.
 
+![Penetración Internet](https://user-images.githubusercontent.com/113458958/233634459-dcbe47b0-9c54-4cec-8b9b-852165c8412b.PNG)
+
 https://es.statista.com/temas/7678/el-uso-de-internet-en-argentina/#topicOverview
 
 ### OJETIVO DEL PROYECTO
