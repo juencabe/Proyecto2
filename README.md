@@ -6,7 +6,7 @@ En cuanto a los países, China es el país con mayor número de usuarios de Inte
 
 ![Penetración Internet](https://user-images.githubusercontent.com/113458958/233634459-dcbe47b0-9c54-4cec-8b9b-852165c8412b.PNG)
 
-https://es.statista.com/temas/7678/el-uso-de-internet-en-argentina/#topicOverview
+Según un reporte del Centro Internacional para la Promoción de los Derechos Humanos (CIDP-UNESCO), Argentina encabeza los países con mayor penetración de internet en Latinoamerica, con más del 80% de la población del país teniendo acceso a la red.
 
 ![Penetración Internet AL](https://user-images.githubusercontent.com/113458958/233636818-90de2d6b-e88d-411e-8a92-9c030ff3d0c5.PNG)
 
