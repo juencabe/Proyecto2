@@ -6,6 +6,8 @@ https://es.statista.com/estadisticas/541451/penetracion-mundial-de-internet-por-
 
 https://es.statista.com/temas/7678/el-uso-de-internet-en-argentina/#topicOverview
 
+![Penetración Internet AL](https://user-images.githubusercontent.com/113458958/233636818-90de2d6b-e88d-411e-8a92-9c030ff3d0c5.PNG)
+
 ### OJETIVO DEL PROYECTO
 
 -Realizar un análisis que permita conocer el comportamiento del servicio de Internet en el sector de las Telecomunicaciones a nivel nacional, para orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
