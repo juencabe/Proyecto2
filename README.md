@@ -1,6 +1,6 @@
 ### INTRODUCCION
 
-Según un reporte de Statista, los países del norte de Europa ocupaban el primer lugar en cuanto a las regiones con la tasa de penetración de Internet más alta en enero de 2023, seguida de Europa Occidental, ambas áreas con una tasa de penetración de Internet superior al 90%. En tercer lugar se encontraba América del Norte con una tasa del 88%.
+Según un reporte de Statista, los países del norte de Europa ocupaban el primer lugar en cuanto a las regiones con la tasa de penetración de Internet más alta en enero de 2023, seguida de Europa Occidental, ambas áreas con una tasa de penetración de Internet superior al 90%. En tercer lugar se encontraba América del Norte con una tasa del 92%.
 
 En cuanto a los países, China es el país con mayor número de usuarios de Internet con 987 millones⁶. Le siguen India con 593 millones y Estados Unidos con 301 millones.
 
