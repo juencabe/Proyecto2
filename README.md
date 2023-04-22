@@ -16,10 +16,14 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ### KPIS
 
-1.Aumentar en un 2% el acceso al servicio de internet para el próximo trimestre, cada 100 hogares, por provincia.
-2.Mejorar los ingresos en un 20% para el próximo trimestre
-3.Implementar encuesta de satisfacción del cliente
-4.Migrar a nuevas tecnologias a los clientes
+KPIs PROYECTO DE TELECOMUNICACIONES					
+Area	Indicador	Meta	Actual	Esperado	Fecha
+Estrategia	Escalafón a nivel mundial	Aumentar en un 10%	60	66	31/12/2022
+Financiera	Ingresos por ventas	Aumentar en un 10%	163.383.869	179.722.256	31/12/2022
+Ventas	Penetración de internet	Aumentar en un 8%	62	67	31/12/2022
+Ventas	Penetración fibra óptica	Aumentar en un 10%	6.473.506	7.120.857	31/12/2022
+![image](https://user-images.githubusercontent.com/113458958/233812299-37f45b53-982e-4392-b5ab-e3317ed63f02.png)
+
 
 ### ANALISIS Y CONCLUSIONES
 
