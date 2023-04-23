@@ -31,8 +31,6 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ### DESARROLLO DEL PROYECTO
 
--Realizar un análisis que permita conocer el comportamiento del servicio de Internet en el sector de las Telecomunicaciones a nivel nacional, para orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
-
 ### Objetivo General
 -Realizar un análisis que permita conocer el comportamiento del servicio de Internet en el sector de las Telecomunicaciones a nivel nacional, para orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
