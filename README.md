@@ -40,8 +40,8 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ### ANALISIS Y CONCLUSIONES
 
-- Despliegue fibra optica
-- -Tecnólogia 5G
+- Los ingresos por ventas y las conexiones a Internet fijo han tenido un crecimiento constante desde el año 2014 hasta la fecha.
+- La penetración por tecnología de Fibra Optica ha tenido un crecimiento constante desde el año 2014 hasta la fecha, mientras que las otras tecnologías empiezan a decrecer o se mantienen.
 
 ### RECOMENDACIONES
 
