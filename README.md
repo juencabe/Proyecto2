@@ -1,19 +1,13 @@
 ### INTRODUCCION
 
 ### La evolución de las telecomunicaciones: Pasado, presente y futuro
-
- Hablar sobre el futuro de las telecomunicaciones cada vez más confuso, ya que, debido al constante movimiento de esta industria, un nuevo desarrollo tecnológico es presentando cada día.
-
+Hablar sobre el futuro de las telecomunicaciones cada vez más confuso, ya que, debido al constante movimiento de esta industria, un nuevo desarrollo tecnológico es presentando cada día.
 Lo bueno, es que al mirar hacia atrás y entender la historia podemos anticipar hacia dónde vamos. Por ejemplo, en sus inicios, todos los procesos de este rubro eran enteramente manuales, mientras que hoy por hoy todo apunta hacia una automatización cada vez más completa.
-
 Lo cierto es que la industria de las telecomunicaciones avanza cada más rápido, por lo que anticiparse al mercado es clave para el éxito.
 
 #### Las TELCO de hoy
-
 Actualmente las implicaciones tecnológicas de esta industria apuntan principalmente a los clientes. La tendencia es que ellos son cada vez más independientes, reduciendo algunos costos operativos para las empresas en materia movilidad. Asimismo, los países emergentes están optando por el desarrollo de infraestructuras para telefonía móvil, ya que esta es mucho más atractiva para los usuarios que las antiguas líneas fijas.
-
 El uso de dispositivos móviles le está ganando la pulseada a uso de conexiones fijas, de la misma forma en que el uso de datos está desplazando a las llamadas por voz, por lo que la infraestructura que se construye también debe apuntar en ese sentido.
-
 Por último, el 4G logró consolidarse casi de manera total por sobre el 3G, pero rápidamente el 5G está tocando la puerta. Esta nueva tecnología está en camino y las telecomunicaciones del futuro no podrán desarrollarse sin ella. Lo móvil se ha convertido en el consumo masivo, pero eso no quiere decir que las líneas fijas vayan a desaparecer, solo han cambiado su rol.
 
 #### Telecomunicaciones del mañana
