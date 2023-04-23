@@ -42,10 +42,10 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 - Los ingresos por ventas y las conexiones a Internet fijo han tenido un crecimiento constante desde el año 2014 hasta la fecha.
 - La penetración por tecnología de Fibra Optica ha tenido un crecimiento constante desde el año 2014 hasta la fecha, mientras que las otras tecnologías empiezan a decrecer o se mantienen.
-- La información no esta centralizada y hay repetición en algunas consultas, además falta empezar a manejar información clave en la relación con los clientes.
+- No hay un sistema de información adecuado que permita a todos los actores tener la información necesaria, que permita tomar las decisiones pertinentes para contribuir a mejorar la penetración de internet y la calidad del servicio.
 
 ### RECOMENDACIONES
-
+ 
 - Elaborar un plan con las buenas practicas implementadas para el exito en los paises del norte de Europa (penetración 97.4%), Europa Occidental (penetración 93.5%) y America del Norte (penetración 92%) para aplicarlas en Argentina.
 - Realizar campaña de mercadeo a nivel nacional para identificar las tendencias de telecomunicaciones de acuerdo a los requerimientos de los clientes, con el fin de utilizar mejor los recursos financieros, técnicos y humanos en el desarrollo de nuevos productos y servicios.
 - Diseñar e implementar un sistema de información centralizado y con la información suficiente y necesaria, con el fin tomar las decisiones más adecuadas para contribuir al crecimiento del sector TIC.
