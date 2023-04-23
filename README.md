@@ -39,6 +39,9 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 -Realizar un análisis que permita conocer el comportamiento del servicio de Internet en el sector de las Telecomunicaciones a nivel nacional, para orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
+### Objetivo General
+-Realizar un análisis que permita conocer el comportamiento del servicio de Internet en el sector de las Telecomunicaciones a nivel nacional, para orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
+
 ### KPIS
 
 ![image](https://user-images.githubusercontent.com/113458958/233812299-37f45b53-982e-4392-b5ab-e3317ed63f02.png)
