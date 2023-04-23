@@ -45,7 +45,6 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ### RECOMENDACIONES
 
-- Evitar la concenctación del mercado 
-- Promover mediante campañas la accesibilidad y la calidad de los servicios de Internet.
-- Establecer politicas y regulaciones claras para el sector de las TIC
+- Realizar campaña de mercadeo a nivel nacional para identificar las tendencias de telecomunicaciones de acuerdo a los requerimientos de los clientes.
 - Estimular la innovación y desarrollo de tecnologias y aplicaciones TIC
+- Establecer politicas y regulaciones claras para el sector de las TIC
