@@ -45,6 +45,7 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ### RECOMENDACIONES
 
+- Elaborar un plan con las buenas practicas implementadas para el exito en los paises del norte de Europa (penetración 97.4%), Europa Occidenta (penetración 93.5%) y America del Norte (penetración 92%) para aplicarlas en Argentina.
 - Realizar campaña de mercadeo a nivel nacional para identificar las tendencias de telecomunicaciones de acuerdo a los requerimientos de los clientes, con el fin de utilizar mejor los recursos financieros, técnicos y humanos en el desarrollo de nuevos productos y servicios.
 - Estimular la innovación y desarrollo de tecnologias y aplicaciones TIC
 - Establecer politicas y regulaciones claras para el sector de las TIC
