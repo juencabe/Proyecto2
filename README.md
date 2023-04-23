@@ -35,7 +35,7 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ![Penetración Internet AL](https://user-images.githubusercontent.com/113458958/233636818-90de2d6b-e88d-411e-8a92-9c030ff3d0c5.PNG)
 
-### OJETIVO DEL PROYECTO
+### DESARROLLO DEL PROYECTO
 
 -Realizar un análisis que permita conocer el comportamiento del servicio de Internet en el sector de las Telecomunicaciones a nivel nacional, para orientar a la empresa en brindar una buena calidad de sus servicios, identificar oportunidades de crecimiento y poder plantear soluciones personalizadas a sus posibles clientes.
 
