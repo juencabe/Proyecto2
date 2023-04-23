@@ -18,7 +18,7 @@ La red se optimizará para ofrecer una mejor calidad de tráfico de datos, siend
 Una gran variedad de mejoras, en velocidad y volumen de datos podrán ser ofrecidos por los nuevos sistemas de información que vienen de la mano con las mejoras en tecnología de telecomunicaciones.
 Serán los clientes quienes decidirán el tipo de uso que den a sus dispositivos y el internet, mientras que las empresas pueden usar la analítica para optimizar sus redes y entregar una mejor experiencia a usuarios.
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
 Según un reporte de Statista, los países del norte de Europa ocupaban el primer lugar en cuanto a las regiones con la tasa de penetración de Internet más alta en enero de 2023, seguida de Europa Occidental, ambas áreas con una tasa de penetración de Internet superior al 90%. En tercer lugar se encontraba América del Norte con una tasa del 92%.
 
 En cuanto a los países, China es el país con mayor número de usuarios de Internet con 987 millones⁶. Le siguen India con 593 millones y Estados Unidos con 301 millones.
