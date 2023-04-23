@@ -43,6 +43,7 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 - Los ingresos por ventas y las conexiones a Internet fijo han tenido un crecimiento constante desde el año 2014 hasta la fecha.
 - La penetración por tecnología de Fibra Optica ha tenido un crecimiento constante desde el año 2014 hasta la fecha, mientras que las otras tecnologías empiezan a decrecer o se mantienen.
 - No hay un sistema de información adecuado que permita a todos los actores tener la información necesaria, que permita tomar las decisiones pertinentes para contribuir a mejorar la penetración de internet y la calidad del servicio.
+- No se encontro ningún tipo de información correspondiente a la relación con el cliente, lo que deja un vacio en la gestión que se realiza en el sector TIC.
 
 ### RECOMENDACIONES
  
