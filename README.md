@@ -29,6 +29,7 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ![Penetración Internet AL](https://user-images.githubusercontent.com/113458958/233636818-90de2d6b-e88d-411e-8a92-9c030ff3d0c5.PNG)
 
+
 ACCESOS PROMEDIO POR CADA 100 HOGARES	
 PROVINCIA	2022
 Capital Federal	118,46
@@ -55,7 +56,7 @@ Santiago Del Estero	47,62
 Chaco	43,90
 Santa Cruz	43,23
 Formosa	40,71
-![image](https://user-images.githubusercontent.com/113458958/234277720-37867944-478c-4d1f-b061-7d20cae95c0a.png)
+![image](https://user-images.githubusercontent.com/113458958/234278066-af103416-2865-40b8-baaf-11398d14b2af.png)
 
 
 ### DESARROLLO DEL PROYECTO
