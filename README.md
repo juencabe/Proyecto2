@@ -29,6 +29,35 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ![Penetración Internet AL](https://user-images.githubusercontent.com/113458958/233636818-90de2d6b-e88d-411e-8a92-9c030ff3d0c5.PNG)
 
+ACCESOS PROMEDIO POR CADA 100 HOGARES	
+PROVINCIA	2022
+Capital Federal	118,46
+Tierra Del Fuego	99,22
+La Pampa	93,74
+Córdoba	87,18
+Chubut	85,21
+San Luis	81,41
+La Rioja	79,86
+Neuquén	78,19
+Santa Fe	77,92
+Buenos Aires	77,26
+Río Negro	67,62
+Entre Ríos	63,76
+Catamarca	61,98
+Tucumán	59,28
+Jujuy	58,10
+Salta	57,14
+Misiones	50,62
+Mendoza	49,72
+Corrientes	48,07
+San Juan	47,94
+Santiago Del Estero	47,62
+Chaco	43,90
+Santa Cruz	43,23
+Formosa	40,71
+![image](https://user-images.githubusercontent.com/113458958/234277720-37867944-478c-4d1f-b061-7d20cae95c0a.png)
+
+
 ### DESARROLLO DEL PROYECTO
 
 ### Objetivo General
