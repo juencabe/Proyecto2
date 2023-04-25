@@ -40,7 +40,8 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ### KPIS
 
-![image](https://user-images.githubusercontent.com/113458958/233812299-37f45b53-982e-4392-b5ab-e3317ed63f02.png)
+![image](https://user-images.githubusercontent.com/113458958/234375083-7e6816ec-4bcf-4138-933f-12e43812d010.png)
+
 
 ### ANALISIS Y CONCLUSIONES
 
