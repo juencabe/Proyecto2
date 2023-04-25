@@ -44,6 +44,7 @@ Según un reporte del Centro Internacional para la Promoción de los Derechos Hu
 
 ![image](https://user-images.githubusercontent.com/113458958/234375372-e96a5d94-5863-4a1d-8752-978165b53e47.png)
 
+![image](https://user-images.githubusercontent.com/113458958/234375861-cd248c28-d451-4f8d-ac26-d4a24388bfad.png)
 
 
 ### ANALISIS Y CONCLUSIONES
